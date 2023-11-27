@@ -1,4 +1,4 @@
-This repo contains the data and chart used in the linkedin post regarding US CPI data. https://www.linkedin.com/pulse/mission-accomplished-fomc-brian-farrell-c9huc%3FtrackingId=OaFBh1gjVblDAHwy80RB8w%253D%253D/?trackingId=OaFBh1gjVblDAHwy80RB8w%3D%3D
+This repo contains the data and chart used in the linkedin post regarding US CPI data.  
 
 The repo contains the following files.
 
